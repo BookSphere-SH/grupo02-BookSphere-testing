@@ -1,1 +1,0 @@
-# grupo02-BookSphere-testing

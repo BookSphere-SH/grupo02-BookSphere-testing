@@ -1,5 +1,5 @@
 Feature: Buscar Libros
-  Como desarrollador, quiero implementar una funcionalidad de búsqueda para que los usuarios puedan encontrar libros en BookSphere por título, autor o género.
+  Como desarrollador, quiero implementar una funcionalidad de búsqueda para que los usuarios puedan encontrar libros en BookSphere por título o género.
 
   Scenario: Búsqueda exitosa
     Given que el endpoint "/search" está disponible

@@ -1,5 +1,5 @@
 Feature: Buscar libros en la biblioteca
-  Como estudiante, quiero buscar libros en mi biblioteca para encontrar rápidamente el material que necesito.
+  Como estudiante, quiero buscar libros en mi biblioteca para encontrar rápidamente el material que necesito
 
   Scenario: Búsqueda exitosa
     Given el estudiante está en su biblioteca

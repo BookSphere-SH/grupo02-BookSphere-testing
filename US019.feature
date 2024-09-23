@@ -1,5 +1,5 @@
 Feature: Añadir Libros gratuitos a la Biblioteca
-  Como estudiante, quiero añadir libros gratuitos a mi biblioteca para tener acceso a ellos desde mi cuenta.
+  Como estudiante, quiero añadir libros gratuitos a mi biblioteca para tener acceso a ellos desde mi cuenta
 
   Scenario: Añadir libro exitosamente
     Given el estudiante observa un libro de su interés en el catálogo de libros

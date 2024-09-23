@@ -1,5 +1,5 @@
 Feature: Implementar Funcionalidad de Filtros en Búsqueda
-  Como desarrollador, quiero añadir filtros a la funcionalidad de búsqueda para que los usuarios puedan refinar sus resultados de búsqueda según diferentes criterios.
+  Como desarrollador, quiero añadir filtros a la funcionalidad de búsqueda para que los usuarios puedan refinar sus resultados de búsqueda según diferentes criterios
 
   Scenario: Filtros aplicados exitosamente
     Given que los filtros están implementados

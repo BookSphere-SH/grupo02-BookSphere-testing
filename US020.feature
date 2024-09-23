@@ -1,5 +1,5 @@
 Feature: Añadir Libros pagos a la Biblioteca
-  Como estudiante, quiero comprar libros para añadirlos a mi biblioteca.
+  Como estudiante, quiero comprar libros para añadirlos a mi biblioteca
 
   Scenario: Agregado exitosamente
     Given el estudiante observa un libro de su interés en el catálogo de libros
